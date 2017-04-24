@@ -973,7 +973,7 @@ int main()
 	int list[3] = {0,2,2};
 	cout<<"\n"<<reach(list , 2 , n , m)<<endl;*/
 
-	/*filter(fdl , fdr , n , m);
+	filter(fdl , fdr , n , m);
 
 	mincov(fdl , fdr , n , m);
 
@@ -1023,7 +1023,7 @@ int main()
 				cout<<" "<<(j+1)<<" ";
 		}
 		cout<<endl;
-	}*/
+	}
 
 	//print table
 
